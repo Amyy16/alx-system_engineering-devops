@@ -10,4 +10,6 @@
 
 6. Display current directory contents,long format with user and group ids displayed numerically.
 
-7. Script that creates a directory inside another directory. 
+7. Script that creates a directory inside another directory.
+
+8. Script that moves a file from a directory to another. 
