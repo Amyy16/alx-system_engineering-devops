@@ -14,4 +14,6 @@
 
 7. Script that moves a file from a directory to another.
 
-8. Delete a file. 
+8. Delete a file.
+
+9. Delete a directory. 
