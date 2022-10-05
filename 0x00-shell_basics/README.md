@@ -16,4 +16,6 @@
 
 8. Delete a file.
 
-9. Delete a directory. 
+9. Delete a directory.
+
+10. Go back to previous directory 
