@@ -20,4 +20,6 @@
 
 10. Go back to previous directory
 
-11. lists 
+11. lists
+
+12. display file type. 
