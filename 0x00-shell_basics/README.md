@@ -18,4 +18,6 @@
 
 9. Delete a directory.
 
-10. Go back to previous directory 
+10. Go back to previous directory
+
+11. lists 
