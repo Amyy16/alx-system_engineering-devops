@@ -24,4 +24,6 @@
 
 12. display file type.
 
-13. Create symbolic link. 
+13. Create symbolic link.
+
+14. Copy html files to parent directory. 
