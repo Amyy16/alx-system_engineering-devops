@@ -22,4 +22,6 @@
 
 11. lists
 
-12. display file type. 
+12. display file type.
+
+13. Create symbolic link. 
